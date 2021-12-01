@@ -10,4 +10,4 @@ Visual Question Answering (VQA) is a computer vision task where a system is give
 
 **Presentation slides** : https://docs.google.com/presentation/d/1WBz_D38e-fyBQ5zz_PdpqxDPsDQA6WJbN0P3hnGi12A/edit?usp=sharing
 
-**Video Link :** https://youtu.be/a_RpIh9GApQ
+**Video Link :** https://www.youtube.com/watch?v=a_RpIh9GApQ
